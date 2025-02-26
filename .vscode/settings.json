@@ -3,6 +3,6 @@
         "editor.inlayHints.maximumLength": 0
     },
     "python.venvPath": "C:\\Users\\user\\Videos\\belajar\\Qml",
-    "python.defaultInterpreterPath": "C:\\Users\\user\\Videos\\belajar\\Qml\\q2env\\Scripts\\python.exe"
-
+    "python.defaultInterpreterPath": "C:\\Users\\user\\Videos\\belajar\\Qml\\q2env\\Scripts\\python.exe",
+    "workbench.colorTheme": "Dracula Theme Soft"
 }
