@@ -3,3 +3,5 @@ CNN/SuperResolutin/img_align_celeba
 CNN/Hugging Face/hug
 CNN/comvis/tugas3/Dataset
 Pennylane/_static
+*.npy
+ekstrak/**/*.npy
